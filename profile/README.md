@@ -4,6 +4,16 @@
 
 ##
 
+## 멤버
+
+
+
+|[<img src="https://github.com/Junseung0526.png" width="200px" height="250px">](https://github.com/Junseung0526)|[<img src="https://github.com/hp657.png" width="200px" height="250px">](https://github.com/hp657) |
+|:---:|:---:|
+| 김준승 | 이효준 |
+
+##
+
 ##  목적
 
 > 프로젝트를 통해 배우고, 성장하고, 함께 나누는  
