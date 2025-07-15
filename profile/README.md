@@ -29,7 +29,7 @@
 | **Frontend** | React(Vite) |
 | **Database** | MySQL |
 | **CI/CD** | Git, GitHub Actions |
-| **Deployment** | Docker, Docker Compose |
+| **Deployment** | Docker, Docker Compose, Nginx |
 
 ##
 
